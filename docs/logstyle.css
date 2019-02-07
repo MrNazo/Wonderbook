@@ -1,0 +1,19 @@
+body {
+background: url("images/lop.jpg");
+background-repeat: no-repeat;
+ background-size: 1800px 1200px;
+ min-width: 1400px;
+ min-height: 400px;
+}
+form {
+  background-color: white;
+  margin: 20% 25%;
+  padding: 3% 4%;
+  border-radius: 15px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.4);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.4);
+}
+.wb{
+
+}
